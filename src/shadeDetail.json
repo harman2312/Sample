@@ -1,0 +1,1389 @@
+[
+  {
+    "id": 1,
+    "name": "Red",
+    "color": "#540817",
+    "shades": [
+      {
+        "id": 139,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 4,
+        "Hexcolor": "#c93e30"
+      },
+      {
+        "id": 140,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 22,
+        "Hexcolor": "#c2373f"
+      },
+      {
+        "id": 141,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 12,
+        "Hexcolor": "#bb3d2e"
+      },
+      {
+        "id": 142,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 23,
+        "Hexcolor": "#b63b38"
+      },
+      {
+        "id": 143,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 13,
+        "Hexcolor": "#ad4248"
+      },
+      {
+        "id": 144,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 0,
+        "Hexcolor": "#b53a42"
+      },
+      {
+        "id": 145,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 16,
+        "Hexcolor": "#b7231a"
+      },
+      {
+        "id": 146,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 7,
+        "Hexcolor": "#b22627"
+      },
+      {
+        "id": 147,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 17,
+        "Hexcolor": "#a33839"
+      },
+      {
+        "id": 148,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 11,
+        "Hexcolor": "#9b3d3f"
+      },
+      {
+        "id": 149,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 20,
+        "Hexcolor": "#aa2a30"
+      },
+      {
+        "id": 150,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 6,
+        "Hexcolor": "#a32939"
+      },
+      {
+        "id": 151,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 1,
+        "Hexcolor": "#9b333d"
+      },
+      {
+        "id": 152,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 8,
+        "Hexcolor": "#a81933"
+      },
+      {
+        "id": 153,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 18,
+        "Hexcolor": "#a0291e"
+      },
+      {
+        "id": 154,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 5,
+        "Hexcolor": "#9d282e"
+      },
+      {
+        "id": 155,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 2,
+        "Hexcolor": "#a30e21"
+      },
+      {
+        "id": 156,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 15,
+        "Hexcolor": "#8f2a2c"
+      },
+      {
+        "id": 157,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 21,
+        "Hexcolor": "#981922"
+      },
+      {
+        "id": 158,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 10,
+        "Hexcolor": "#9c0b10"
+      },
+      {
+        "id": 159,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 24,
+        "Hexcolor": "#862e30"
+      },
+      {
+        "id": 160,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 3,
+        "Hexcolor": "#842c38"
+      },
+      {
+        "id": 161,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 26,
+        "Hexcolor": "#892028"
+      },
+      {
+        "id": 162,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 28,
+        "Hexcolor": "#940012"
+      },
+      {
+        "id": 163,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 9,
+        "Hexcolor": "#881c19"
+      },
+      {
+        "id": 164,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 14,
+        "Hexcolor": "#881829"
+      },
+      {
+        "id": 165,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 29,
+        "Hexcolor": "#860b20"
+      },
+      {
+        "id": 166,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 19,
+        "Hexcolor": "#742821"
+      },
+      {
+        "id": 167,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 27,
+        "Hexcolor": "#660516"
+      },
+      {
+        "id": 168,
+        "Product ID": "Pemolipcolor_red",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_red",
+        "shadeName": 30,
+        "Hexcolor": "#540817"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pink",
+    "color": "#962f45",
+    "shades": [
+      {
+        "id": 79,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 19,
+        "Hexcolor": "#ef898f"
+      },
+      {
+        "id": 80,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 12,
+        "Hexcolor": "#e586aa"
+      },
+      {
+        "id": 81,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 21,
+        "Hexcolor": "#ca839d"
+      },
+      {
+        "id": 82,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 29,
+        "Hexcolor": "#fb48c4"
+      },
+      {
+        "id": 83,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 2,
+        "Hexcolor": "#b67379"
+      },
+      {
+        "id": 84,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 18,
+        "Hexcolor": "#b7736c"
+      },
+      {
+        "id": 85,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 6,
+        "Hexcolor": "#af726b"
+      },
+      {
+        "id": 86,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 11,
+        "Hexcolor": "#ab6f77"
+      },
+      {
+        "id": 87,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 14,
+        "Hexcolor": "#ab6e6f"
+      },
+      {
+        "id": 88,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 15,
+        "Hexcolor": "#b4646f"
+      },
+      {
+        "id": 89,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 1,
+        "Hexcolor": "#b86261"
+      },
+      {
+        "id": 90,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 17,
+        "Hexcolor": "#c25485"
+      },
+      {
+        "id": 91,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 13,
+        "Hexcolor": "#c74f6a"
+      },
+      {
+        "id": 92,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 9,
+        "Hexcolor": "#aa6360"
+      },
+      {
+        "id": 93,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 5,
+        "Hexcolor": "#b7596e"
+      },
+      {
+        "id": 94,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 4,
+        "Hexcolor": "#c04e53"
+      },
+      {
+        "id": 95,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 20,
+        "Hexcolor": "#b5515a"
+      },
+      {
+        "id": 96,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 16,
+        "Hexcolor": "#a3555a"
+      },
+      {
+        "id": 97,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 26,
+        "Hexcolor": "#b13c70"
+      },
+      {
+        "id": 98,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 28,
+        "Hexcolor": "#b33f4e"
+      },
+      {
+        "id": 99,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 10,
+        "Hexcolor": "#b6356a"
+      },
+      {
+        "id": 100,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 7,
+        "Hexcolor": "#b9324a"
+      },
+      {
+        "id": 101,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 3,
+        "Hexcolor": "#a24a4b"
+      },
+      {
+        "id": 102,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 0,
+        "Hexcolor": "#aa3e62"
+      },
+      {
+        "id": 103,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 23,
+        "Hexcolor": "#a9384c"
+      },
+      {
+        "id": 104,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 24,
+        "Hexcolor": "#9e4153"
+      },
+      {
+        "id": 105,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 22,
+        "Hexcolor": "#ad2850"
+      },
+      {
+        "id": 106,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 8,
+        "Hexcolor": "#924247"
+      },
+      {
+        "id": 107,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 27,
+        "Hexcolor": "#a03245"
+      },
+      {
+        "id": 108,
+        "Product ID": "Pemolipcolor_pink",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_pink",
+        "shadeName": 30,
+        "Hexcolor": "#962f45"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "color": "#993730",
+    "shades": [
+      {
+        "id": 31,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 17,
+        "Hexcolor": "#eb8d7e"
+      },
+      {
+        "id": 32,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 1,
+        "Hexcolor": "#e57b48"
+      },
+      {
+        "id": 33,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 5,
+        "Hexcolor": "#f66f27"
+      },
+      {
+        "id": 34,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 22,
+        "Hexcolor": "#de7b59"
+      },
+      {
+        "id": 35,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 9,
+        "Hexcolor": "#ed6f64"
+      },
+      {
+        "id": 36,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 28,
+        "Hexcolor": "#d5714d"
+      },
+      {
+        "id": 37,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 19,
+        "Hexcolor": "#ea6037"
+      },
+      {
+        "id": 38,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 12,
+        "Hexcolor": "#dd6c26"
+      },
+      {
+        "id": 39,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 30,
+        "Hexcolor": "#cf7062"
+      },
+      {
+        "id": 40,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 10,
+        "Hexcolor": "#df6230"
+      },
+      {
+        "id": 41,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 16,
+        "Hexcolor": "#cb6824"
+      },
+      {
+        "id": 42,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 3,
+        "Hexcolor": "#c16b60"
+      },
+      {
+        "id": 43,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 20,
+        "Hexcolor": "#c4653a"
+      },
+      {
+        "id": 44,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 11,
+        "Hexcolor": "#cc5f42"
+      },
+      {
+        "id": 45,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 6,
+        "Hexcolor": "#c4625a"
+      },
+      {
+        "id": 46,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 8,
+        "Hexcolor": "#d0553a"
+      },
+      {
+        "id": 47,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 14,
+        "Hexcolor": "#c45851"
+      },
+      {
+        "id": 48,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 26,
+        "Hexcolor": "#e2382d"
+      },
+      {
+        "id": 49,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 13,
+        "Hexcolor": "#be533e"
+      },
+      {
+        "id": 50,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 0,
+        "Hexcolor": "#c24b44"
+      },
+      {
+        "id": 51,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 7,
+        "Hexcolor": "#c43f28"
+      },
+      {
+        "id": 52,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 18,
+        "Hexcolor": "#b24e43"
+      },
+      {
+        "id": 53,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 23,
+        "Hexcolor": "#ad443c"
+      },
+      {
+        "id": 54,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 27,
+        "Hexcolor": "#a34226"
+      },
+      {
+        "id": 55,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 4,
+        "Hexcolor": "#a43d33"
+      },
+      {
+        "id": 56,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 2,
+        "Hexcolor": "#a23b23"
+      },
+      {
+        "id": 57,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 15,
+        "Hexcolor": "#a2362a"
+      },
+      {
+        "id": 58,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 21,
+        "Hexcolor": "#a43231"
+      },
+      {
+        "id": 59,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 29,
+        "Hexcolor": "#a32c28"
+      },
+      {
+        "id": 60,
+        "Product ID": "Pemolipcolor_orange",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_orange",
+        "shadeName": 24,
+        "Hexcolor": "#993730"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Purple",
+    "color": "#36242f",
+    "shades": [
+      {
+        "id": 109,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 21,
+        "Hexcolor": "#a27cb3"
+      },
+      {
+        "id": 110,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 11,
+        "Hexcolor": "#9a5761"
+      },
+      {
+        "id": 111,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 15,
+        "Hexcolor": "#b26994"
+      },
+      {
+        "id": 112,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 5,
+        "Hexcolor": "#8f7899"
+      },
+      {
+        "id": 113,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 16,
+        "Hexcolor": "#96717a"
+      },
+      {
+        "id": 114,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 6,
+        "Hexcolor": "#9c5d5e"
+      },
+      {
+        "id": 115,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 20,
+        "Hexcolor": "#925d79"
+      },
+      {
+        "id": 116,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 2,
+        "Hexcolor": "#b13e77"
+      },
+      {
+        "id": 117,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 1,
+        "Hexcolor": "#94575e"
+      },
+      {
+        "id": 118,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 0,
+        "Hexcolor": "#775896"
+      },
+      {
+        "id": 119,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 18,
+        "Hexcolor": "#a33d71"
+      },
+      {
+        "id": 120,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 8,
+        "Hexcolor": "#a13e68"
+      },
+      {
+        "id": 121,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 22,
+        "Hexcolor": "#72567a"
+      },
+      {
+        "id": 122,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 12,
+        "Hexcolor": "#8c4580"
+      },
+      {
+        "id": 123,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 9,
+        "Hexcolor": "#795462"
+      },
+      {
+        "id": 124,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 24,
+        "Hexcolor": "#903b50"
+      },
+      {
+        "id": 125,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 14,
+        "Hexcolor": "#7f4049"
+      },
+      {
+        "id": 126,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 28,
+        "Hexcolor": "#932c4a"
+      },
+      {
+        "id": 127,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 26,
+        "Hexcolor": "#783a3d"
+      },
+      {
+        "id": 128,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 3,
+        "Hexcolor": "#7d304f"
+      },
+      {
+        "id": 129,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 7,
+        "Hexcolor": "#8b2242"
+      },
+      {
+        "id": 130,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 27,
+        "Hexcolor": "#8a2139"
+      },
+      {
+        "id": 131,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 17,
+        "Hexcolor": "#583d71"
+      },
+      {
+        "id": 132,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 19,
+        "Hexcolor": "#6b335d"
+      },
+      {
+        "id": 133,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 10,
+        "Hexcolor": "#693642"
+      },
+      {
+        "id": 134,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 4,
+        "Hexcolor": "#513856"
+      },
+      {
+        "id": 135,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 23,
+        "Hexcolor": "#6f2735"
+      },
+      {
+        "id": 136,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 13,
+        "Hexcolor": "#543442"
+      },
+      {
+        "id": 137,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 29,
+        "Hexcolor": "#531b25"
+      },
+      {
+        "id": 138,
+        "Product ID": "Pemolipcolor_purple",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_purple",
+        "shadeName": 30,
+        "Hexcolor": "#36242f"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Other",
+    "color": "#1d1715",
+    "shades": [
+      {
+        "id": 61,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 7,
+        "Hexcolor": "#a6a9aa"
+      },
+      {
+        "id": 62,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 13,
+        "Hexcolor": "#8eb162"
+      },
+      {
+        "id": 63,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 8,
+        "Hexcolor": "#c99403"
+      },
+      {
+        "id": 64,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 9,
+        "Hexcolor": "#4aa7ba"
+      },
+      {
+        "id": 65,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 17,
+        "Hexcolor": "#3ca699"
+      },
+      {
+        "id": 66,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 10,
+        "Hexcolor": "#bf7d5c"
+      },
+      {
+        "id": 67,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 24,
+        "Hexcolor": "#668060"
+      },
+      {
+        "id": 68,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 3,
+        "Hexcolor": "#877443"
+      },
+      {
+        "id": 69,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 4,
+        "Hexcolor": "#287aa8"
+      },
+      {
+        "id": 70,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 1,
+        "Hexcolor": "#1e707d"
+      },
+      {
+        "id": 71,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 5,
+        "Hexcolor": "#6a644d"
+      },
+      {
+        "id": 72,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 6,
+        "Hexcolor": "#66614e"
+      },
+      {
+        "id": 73,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 22,
+        "Hexcolor": "#3b5691"
+      },
+      {
+        "id": 74,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 16,
+        "Hexcolor": "#2c5a4f"
+      },
+      {
+        "id": 75,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 2,
+        "Hexcolor": "#1e4f51"
+      },
+      {
+        "id": 76,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 18,
+        "Hexcolor": "#374762"
+      },
+      {
+        "id": 77,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 21,
+        "Hexcolor": "#3a3f43"
+      },
+      {
+        "id": 78,
+        "Product ID": "Pemolipcolor_other",
+        "UPC": 115000000000000,
+        "Product Name": "EmoLipColor_other",
+        "shadeName": 12,
+        "Hexcolor": "#1d1715"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Brown",
+    "color": "#581212",
+    "shades": [
+      {
+        "id": 1,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 26,
+        "Hexcolor": "#daa563"
+      },
+      {
+        "id": 2,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 15,
+        "Hexcolor": "#c17e6e"
+      },
+      {
+        "id": 3,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 23,
+        "Hexcolor": "#aa8066"
+      },
+      {
+        "id": 4,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 2,
+        "Hexcolor": "#bb745b"
+      },
+      {
+        "id": 5,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 5,
+        "Hexcolor": "#b0795a"
+      },
+      {
+        "id": 6,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 10,
+        "Hexcolor": "#b07466"
+      },
+      {
+        "id": 7,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 7,
+        "Hexcolor": "#b66755"
+      },
+      {
+        "id": 8,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 21,
+        "Hexcolor": "#ad6760"
+      },
+      {
+        "id": 9,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 0,
+        "Hexcolor": "#ab6459"
+      },
+      {
+        "id": 10,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 13,
+        "Hexcolor": "#9d6159"
+      },
+      {
+        "id": 11,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 12,
+        "Hexcolor": "#a45a33"
+      },
+      {
+        "id": 12,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 18,
+        "Hexcolor": "#a9554c"
+      },
+      {
+        "id": 13,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 3,
+        "Hexcolor": "#a6493f"
+      },
+      {
+        "id": 14,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 11,
+        "Hexcolor": "#965247"
+      },
+      {
+        "id": 15,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 19,
+        "Hexcolor": "#94504f"
+      },
+      {
+        "id": 16,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 29,
+        "Hexcolor": "#a2413c"
+      },
+      {
+        "id": 17,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 4,
+        "Hexcolor": "#87514c"
+      },
+      {
+        "id": 18,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 16,
+        "Hexcolor": "#904039"
+      },
+      {
+        "id": 19,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 24,
+        "Hexcolor": "#96392e"
+      },
+      {
+        "id": 20,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 22,
+        "Hexcolor": "#7d4a33"
+      },
+      {
+        "id": 21,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 8,
+        "Hexcolor": "#6d4f46"
+      },
+      {
+        "id": 22,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 14,
+        "Hexcolor": "#7f3f3b"
+      },
+      {
+        "id": 23,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 30,
+        "Hexcolor": "#5a4531"
+      },
+      {
+        "id": 24,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 20,
+        "Hexcolor": "#693c38"
+      },
+      {
+        "id": 25,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 6,
+        "Hexcolor": "#732c2e"
+      },
+      {
+        "id": 26,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 28,
+        "Hexcolor": "#752519"
+      },
+      {
+        "id": 27,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 9,
+        "Hexcolor": "#4f383a"
+      },
+      {
+        "id": 28,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 1,
+        "Hexcolor": "#582a29"
+      },
+      {
+        "id": 29,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 17,
+        "Hexcolor": "#4f2c1d"
+      },
+      {
+        "id": 30,
+        "Product ID": "Pemolipcolor_brown",
+        "UPC": 114000000000000,
+        "Product Name": "EmoLipColor_brown",
+        "shadeName": 27,
+        "Hexcolor": "#581212"
+      }
+    ]
+  }
+
+]

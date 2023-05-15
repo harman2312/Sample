@@ -1,0 +1,281 @@
+.Loreal-logo {
+  width: 190px !important;
+  /* height: 70px !important; */
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.text {
+  color: white
+}
+
+.btn {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  border: 1px solid white;
+}
+
+.viewer-btn {
+  margin-top: 2vh;
+}
+
+.btn:hover {
+  opacity: 0.7;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.home-btn {
+  min-width: 150px;
+}
+
+.home-btn-container {
+  margin-top: 30vh;
+
+}
+
+/* SHADE PICKER */
+
+
+.ShadePicker-container {
+  /* margin-top: 27vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .RoundContainer {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+.RoundContainer div {
+  font-size: 15px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 35px;
+}
+
+.next-btn {
+  /* margin-top: 27vh; */
+  min-width: 150px;
+}
+
+/* Selected Shades */
+.shades-text {
+  margin-top: 12vh;
+  word-spacing: 8px;
+}
+
+.shades-btn {
+  /* margin-top: 12vh; */
+}
+
+.custom-shade {
+  height: 65px;
+  width: 65px;
+  border-radius: 50%;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.circle-lipshade-red {
+  height: 77px;
+  width: 77px;
+  border-radius: 50%;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.text-number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.selected-shade1 {
+  margin-top: 10vh;
+}
+
+.selected-shade2 {
+  margin-top: 3vh;
+}
+
+
+.circle-lipshade-orange {
+  height: 72px !important;
+  width: 72px !important;
+  background-color: #f58320;
+  border-radius: 50%;
+  display: inline-block;
+  border: 4px solid #db2518;
+  margin-right: 20px;
+}
+
+.orange-top-selected {
+  margin-top: 3vh;
+}
+
+.yellow-top-custom {
+  margin-top: 3vh;
+  cursor: pointer;
+}
+
+.red-top-custom {
+  margin-top: 3vh;
+  cursor: pointer;
+}
+
+.circle-lipshade-yellow {
+  height: 75px !important;
+  width: 75px !important;
+  background-color: #f5aa20;
+  border-radius: 50%;
+  /* display: inline-block; */
+  border: 4px solid #fa7019;
+  margin-right: 20px;
+}
+
+.hidden-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.back-btn {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 25px;
+  min-width: 120px;
+}
+
+.shadepicker-flex {
+  margin-top: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  gap: 10px;
+}
+.VTO-flex {
+  margin-top: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  gap: 25px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 5px;
+}
+
+.custom-btn {
+  margin-top: 10vh;
+}
+
+.hidden-Restart-btn {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+/* Results */
+
+.marginTop {
+  margin-top: 5vh;
+}
+
+.gap {
+  gap: 115px;
+  margin-top: 5vh
+}
+
+.emotion-circle {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  border: 5px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 150px;
+}
+
+.emotion-font {
+  font-size: 20px;
+}
+
+.rectangle-frame {
+  height: 100px;
+  width: 60px;
+  border: 2px solid white;
+}
+
+.shade-gap {
+  gap: 100px;
+  margin-top: 5vh;
+}
+
+.circle-lipshade {
+  height: 40px;
+  width: 40px;
+  background-color: #db2518;
+  border-radius: 50%;
+  /* display: inline-block; */
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.pick-container {
+  margin-top: 3vh;
+}
+
+.result-shade-circle {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.start-loading {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 24px;
+}
